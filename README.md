@@ -1,5 +1,6 @@
 ![screenshot-localhost_3000-2021 09 11-01_00_28](https://user-images.githubusercontent.com/41327466/132913351-569c033c-1384-41ff-ae6a-7e1add1a8a33.png)
 
+TRANSPARENT NAVIGATION BAR CHANGES THE COLOR AFTER THE SCROLLING
 
 ![ss3](https://user-images.githubusercontent.com/41327466/132912599-338051a3-fbf2-466d-9a26-5e288ac3083d.png)
 # Getting Started with Create React App
